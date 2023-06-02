@@ -1,0 +1,55 @@
+#centralwidget{
+	border-image: url(:/icons/icons/creamBackgorund.jpg);
+	border-image: url(:/icons/icons/cizgilibackgorund.jpg);
+}
+#label{
+	background-color: rgb(253, 216, 197);
+	border-radius : 14px;
+}
+#pushButton_next{
+	background-color: rgb(253, 216, 197);
+	border-radius : 20px;
+}
+#pushButton_previous{
+	background-color: rgb(253, 216, 197);
+	border-radius : 20px;
+}
+#toolBar{
+background-color: rgb(253, 216, 197);
+}
+#textEdit{
+background-color: rgb(255, 170, 110);
+border-image: url(:/icons/icons/vintage-background.jpg);
+}
+**icon_ayrimi**
+:/icons/icons/hediye.ico
+:/icons/icons/corap.ico
+**tema_ayrimi**
+#centralwidget{
+	border-image: url(:/icons/icons/creamBackgorund.jpg);
+	border-image: url(:/icons/icons/dark-blue-wallpaper.jpg);
+}
+#label{
+	background-color: rgb(50, 50, 150);
+	color: white;
+	border-radius : 14px;
+}
+#pushButton_next{
+	background-color: rgb(50, 50, 150);
+	border-radius : 20px;
+}
+#pushButton_previous{
+	background-color: rgb(50, 50, 150);
+	border-radius : 20px;
+}
+#toolBar{
+background-color: rgb(50, 50, 170);
+}
+#textEdit{
+    background-color: rgb(255, 170, 110);
+    border-image: url(:/icons/icons/dark-blue.jpg);
+    color : rgb(255, 255, 255);
+}
+**icon_ayrimi**
+:/icons/icons/hediye.ico
+:/icons/icons/corap.ico
